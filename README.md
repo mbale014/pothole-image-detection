@@ -117,15 +117,15 @@ Penggunaan transfer learning dengan pretrained model seperti VGG16 dan MobileNet
 Untuk penggunaan produksi, VGG16 direkomendasikan karena keseimbangan antara akurasi dan efisiensi komputasi.
 
 ## Reference
-Dataset - (Pothole image detection)[https://www.kaggle.com/datasets/atulyakumar98/pothole-detection-dataset/]
-Deployment - (HuggingFace)[https://huggingface.co/spaces/mbale014/Pothole-Detection-by-mbale014]
-VGG16 - (Very Deep Convolutional Networks for Large-Scale Image Recognition
-K. Simonyan, A. Zisserman (2015))[https://arxiv.org/abs/1409.1556]
-MobileNetV2 - (Inverted Residuals and Linear Bottlenecks
-M. Sandler, A. Howard, M. Zhu, A. Zhmoginov, L. Chen (2019))[https://arxiv.org/abs/1801.04381]
-Keras Applications Documentation - (Keras Applications)[ https://keras.io/api/applications/]
-Streamlit Documentation - (Streamlit)[https://docs.streamlit.io/]
-Hugging Face Spaces Documentation - (Hugging Face Spaces)[https://huggingface.co/docs/hub/spaces]
+Dataset - [Pothole image detection](https://www.kaggle.com/datasets/atulyakumar98/pothole-detection-dataset/)
+Deployment - [HuggingFace](https://huggingface.co/spaces/mbale014/Pothole-Detection-by-mbale014)
+VGG16 - [Very Deep Convolutional Networks for Large-Scale Image Recognition
+K. Simonyan, A. Zisserman (2015)](https://arxiv.org/abs/1409.1556)
+MobileNetV2 - [Inverted Residuals and Linear Bottlenecks
+M. Sandler, A. Howard, M. Zhu, A. Zhmoginov, L. Chen (2019)](https://arxiv.org/abs/1801.04381)
+Keras Applications Documentation - [Keras Applications](https://keras.io/api/applications/)
+Streamlit Documentation - [Streamlit](https://docs.streamlit.io/)
+Hugging Face Spaces Documentation - [Hugging Face Spaces](https://huggingface.co/docs/hub/spaces)
 
 
 ---
